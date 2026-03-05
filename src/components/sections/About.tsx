@@ -317,7 +317,11 @@ export const About = () => {
                   muted
                   loop
                   playsInline
-                  className="absolute inset-0 w-full h-full object-cover opacity-50 grayscale group-hover:grayscale-0 group-hover:opacity-80 transition-all duration-1000"
+                  className={`absolute inset-0 w-full h-full object-cover transition-all duration-1000 ${
+                    typeof window !== "undefined" && window.innerWidth < 768
+                      ? "opacity-60"
+                      : "opacity-50 grayscale group-hover:grayscale-0 group-hover:opacity-80"
+                  }`}
                 >
                   <source src={p.videoPath} type="video/mp4" />
                 </video>
