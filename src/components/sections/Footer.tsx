@@ -132,7 +132,7 @@ export const Footer = () => {
             <div className="flex items-center gap-3">
               <div className="relative w-9 h-9 md:w-11 md:h-11">
                 <Image
-                  src="/recyvra_icon_transparent.png"
+                  src="/logo.png"
                   alt="Recyvra"
                   fill
                   className="object-contain"
