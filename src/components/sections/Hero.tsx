@@ -15,7 +15,7 @@ const SUBTITLES = [
 ];
 
 const ABOUT_TEXT =
-  "We are Recyvra — where AI-powered intelligence meets the circular economy, uniting logistics, data, and sustainability.";
+  "We at Recyvra are focused — where AI-powered intelligence meets the circular economy, uniting logistics, data, and sustainability.";
 
 const ORBIT_CARDS = [
   {
