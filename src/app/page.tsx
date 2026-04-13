@@ -11,6 +11,7 @@ import { Pricing } from "@/components/sections/Pricing";
 import { CTA } from "@/components/sections/CTA";
 import { Footer } from "@/components/sections/Footer";
 import { PageLoader } from "@/components/sections/PageLoader";
+import { Team } from "@/components/sections/Team";
 
 export default function Home() {
   return (
@@ -25,6 +26,7 @@ export default function Home() {
       <PlatformFeatures />
       <AISection />
       <HowItWorks />
+      <Team />
       <Pricing />
       <CTA />
       <Footer />
