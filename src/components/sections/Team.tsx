@@ -12,25 +12,25 @@ const TEAM = [
     name: "Adai John",
     role: "Chief Executive Officer",
     specialty: "Vision and Strategy",
-    image: "/adai_john.jpeg",
+    image: "/johnadai.jpeg",
   },
   {
     name: "Morgan Uche",
     role: "Head of Operation",
     specialty: "Logistics and Circulation Veteran",
-    image: "/morgan_uche.jpeg",
+    image: "/morganuche.jpeg",
   },
   {
     name: "Obande Comfort",
     role: "CTO",
     specialty: "AI/ML Specialist",
-    image: "/obande_comfort.jpeg",
+    image: "/obandecomfort.jpeg",
   },
   {
     name: "Uchenna Okafor",
     role: "Business Dev & Partnership Manager",
     specialty: "Strategic Growth",
-    image: "/uchenna_okafor.jpg",
+    image: "/uchennaokafor.jpg",
   },
 ];
 
