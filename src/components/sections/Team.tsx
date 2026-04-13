@@ -30,7 +30,7 @@ const TEAM = [
     name: "Uchenna Okafor",
     role: "Business Dev & Partnership Manager",
     specialty: "Strategic Growth",
-    image: "/uchenna_okafor.jpeg",
+    image: "/uchenna_okafor.jpg",
   },
 ];
 
